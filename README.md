@@ -4,7 +4,7 @@
 
   * 電台直播源網址（支援 `.m3u8`、`.ts` 或 `.mp4`）。網路串流電台(收音機)可以在背景運行,適用於安卓系統
   
-* 2.<img width="36" height="36" alt="iptv" src="https://github.com/user-attachments/assets/41c46fa8-24d7-432c-b7df-969ff9c65b1c" /> I-TV Internet stream video , sortting from IPTV-ORG [Download]https://github.com/seekhope886/MyProjectAPK/raw/refs/heads/main/ITV.apk)
+* 2.<img width="36" height="36" alt="iptv" src="https://github.com/user-attachments/assets/41c46fa8-24d7-432c-b7df-969ff9c65b1c" /> I-TV Internet stream video , sortting from IPTV-ORG [Download](https://github.com/seekhope886/MyProjectAPK/raw/refs/heads/main/ITV.apk)
 
   * 網路串流電視台(IPTV)全球串流影像載點IPTV-ORG收集的載點,可以自己設定我的最愛快速撥放,適用於安卓系統
   
